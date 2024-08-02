@@ -33,3 +33,7 @@ body {
     font-size: 18px;
     color: #868686;
 }
+
+::selection {
+    background-color: #292929;
+}
